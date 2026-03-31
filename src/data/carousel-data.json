@@ -1,0 +1,35 @@
+[
+  {
+    "id": 0,
+    "src": "src/carouselimage/bayang_text.png"
+  },
+  {
+    "id": 2,
+    "src": "src/carouselimage/danau_text.png"
+  },
+  {
+    "id": 3,
+    "src": "src/carouselimage/back_text.png"
+  },
+  {
+    "id": 4,
+    "src": "src/carouselimage/mirror_text.png"
+  },
+  {
+    "id": 5,
+    "src": "src/carouselimage/confess_text.png"
+  },
+  {
+    "id": 6,
+    "src": "src/carouselimage/helm_text.png"
+  },
+  {
+    "id": 7,
+    "src": "src/carouselimage/coretan_text.png"
+  },
+  {
+    "id": 8,
+    "src": "src/carouselimage/siiluet_text.png"
+  }
+  
+]
